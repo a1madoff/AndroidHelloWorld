@@ -4,6 +4,7 @@
 A simple hello world app that allows users to input text and change the color of the text and background.
 
 ### App Walk-though
+
 <img src="http://g.recordit.co/Rsd8KyQpwH.gif" width=200><br>
 
 ### Required User Stories

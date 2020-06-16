@@ -1,7 +1,7 @@
 ## Android Hello World
 
 ### App Description
-`TODO://` Add app description
+Simple hello world app that allows users to input text and change the color of the text and background
 
 ### App Walk-though
 `TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)

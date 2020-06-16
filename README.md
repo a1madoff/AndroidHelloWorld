@@ -6,7 +6,7 @@ A simple hello world app that allows users to input text and change the color of
 ### App Walk-though
 `TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
 
-<img src="https://recordit.co/Rsd8KyQpwH" width=200><br>
+<img src="http://g.recordit.co/Rsd8KyQpwH.gif" width=200><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
